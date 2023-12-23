@@ -1,4 +1,3 @@
-
 package ch.martinelli.demo.trx;
 
 import jakarta.persistence.EntityManager;
